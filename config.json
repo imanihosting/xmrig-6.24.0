@@ -1,7 +1,7 @@
 {
     "api": {
         "id": null,
-        "worker-id": "DellPrec5690"
+        "worker-id": "DellPrec569"
     },
     "http": {
         "enabled": true,
@@ -83,8 +83,8 @@
             "coin": "XMR",
             "url": "gulf.moneroocean.stream:20128",
             "user": "41qssqcr6nucp9ZNwU93ULbmt5TgEVZaPXRsKu7aFMN9WR5fFSZbH3yWFdmJfCo6wdiSCEcBpfiCtRoJ61NEhYCD2zkFjhs",
-            "pass": "dellprec5690~rx/0",
-            "rig-id": "rig21",
+            "pass": "dellprec569~rx/0",
+            "rig-id": "rig19",
             "nicehash": false,
             "keepalive": true,
             "enabled": true,
